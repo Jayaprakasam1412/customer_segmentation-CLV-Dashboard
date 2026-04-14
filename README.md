@@ -101,7 +101,7 @@ Raw Data → SQL → Python (RFM Model) → CSV → Power BI Dashboard
 
 ---
 
-## 📌 Project Outcome
+## 📌 Power BI Dashboard Report
 
 https://app.powerbi.com/links/AyaehsjUy7?ctid=406a6e9a-2c6d-4cd4-b5fc-299c924534e7&pbi_source=linkShare
 
